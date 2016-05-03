@@ -1,0 +1,10 @@
+{
+  "name": "whereuat.ninja.service",
+  "version": "0.0.1",
+  "description": "whereuat.ninja location api",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "express": "3.x"
+  }
+}
